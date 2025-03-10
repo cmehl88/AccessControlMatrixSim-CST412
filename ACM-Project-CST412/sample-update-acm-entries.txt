@@ -1,0 +1,5 @@
+add,userA,file1,r
+add,userD,file2,r
+add,userD,file2,w
+remove,userC,file7,w
+remove,userB,file7,w

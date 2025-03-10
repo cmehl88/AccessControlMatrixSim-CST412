@@ -1,0 +1,6 @@
+How to run program:
+When running the program you are greeted with a menu to choose from.
+First load the input acm list being option 1. For the default starter acm file it's input-acm-entries.txt. Without anything loaded nothing will be able to be changed.
+Then after you have inputted your starter acm list up to you what to do with the next options as theres no order needed.
+I suggest after loading to print to formiliarize yourself with the format.
+An ideal step through would be 1, load the acm, 2, make sure it looks correct, 3 update the list, 4 evaluate the new list but again no certain order required.
